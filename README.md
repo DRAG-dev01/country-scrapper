@@ -20,7 +20,7 @@ A desktop app that searches for country information including capital and popula
 
 1\. Install dependencies: `pip install requests beautifulsoup4`
 
-2\. Run: `python country\_app.py`
+2\. Run: `python country_app.py`
 
 
 
